@@ -1,0 +1,1 @@
+javascript:var URL=prompt('TrumpetMan s emergency tab switcher.Type or paste the emergency url into the prompt. Enter to activate');window.addEventListener('keydown',function(event){if(event.key=='Enter'){window.open((URL));} });
