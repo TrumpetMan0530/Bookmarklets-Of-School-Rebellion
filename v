@@ -1,0 +1,1 @@
+javascript:var div=document.createElement('div');div.style.width='250px';div.style.height='150px';div.style.background='blue';div.style.color='black';div.innerHTML="TrumpetMan's Webpage Editor<br>[1.BCS] [2.DC] [3.D]<br>[4.TE]<br><br>ctrl=open shift=hide";document.getElementById('main');document.body.appendChild
