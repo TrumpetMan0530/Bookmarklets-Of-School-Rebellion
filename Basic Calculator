@@ -1,1 +1,0 @@
-javascript:var eq=prompt('Enter equation');var res=eval(eq);alert(res);
